@@ -1,7 +1,5 @@
 (ns clojure-server.core
   (:gen-class))
 
-(defn -main
-  "I don't do a whole lot ... yet."
-  [& args]
+(defn -main "The one and only." [& args]
   (println "Hello, World!"))
